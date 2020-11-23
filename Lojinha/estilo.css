@@ -78,3 +78,40 @@ h3 {
     background-color: rgb(124, 85, 85);
     margin-top: 30px;
 }
+
+#redesSociais {
+    margin-left: 20px;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-bottom: 50px;
+}
+
+.rede {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#email {
+    margin-right: 50px;
+}
+
+#receba {
+    color: white;
+}
+
+#inputEmail {
+    width: 100%;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: rgb(109, 57, 109);
+    width: 100px;
+    height: 50px;
+    border: rgb(71, 36, 71) 1px solid;
+    color: white;
+    font-size: 20px;
+    box-shadow: rgb(71, 36, 71) 2px 2px 5px;
+}
