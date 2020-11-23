@@ -71,3 +71,10 @@ h3 {
     margin-right: 10px;
     text-align: justify;
 }
+
+#rodape {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(124, 85, 85);
+    margin-top: 30px;
+}
