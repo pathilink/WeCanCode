@@ -8,7 +8,7 @@
 
 * Teste sobre estilos de aprendizado: [link](https://www.buzzfeed.com/gamaacademy/estilo-de-aprendizado-bq59r4ckhq)
 
-![](estilos_a_prendizado.png)
+![imagem](./estilos_aprendizado.png)
 
 * Plano de carreira e expectativas com o CEO da Gama Academy: [vídeo](https://www.youtube.com/watch?v=gcFjIi_LO7A&feature=youtu.be)
 
