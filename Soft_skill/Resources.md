@@ -1,8 +1,8 @@
 # Recursos
 
-* Inteligência emocional com Daniel Goleman: [vídeo](https://www.youtube.com/watch?v=BqF50IuR3_c) 
+* Inteligência emocional com Daniel Goleman: [vídeo](https://www.youtube.com/watch?v=BqF50IuR3_c)
 
-* Prática de higiene emocional com Guy Winch: [vídeo](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid?language=pt-br) 
+* Prática de higiene emocional com Guy Winch: [vídeo](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid?language=pt-br)
 
 * Transição do mercado tradicional para o digital: [vídeo](https://www.youtube.com/watch?v=fPPvBXlut90&feature=youtu.be)
 
