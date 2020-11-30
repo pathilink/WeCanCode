@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(200, 180, 180);
+}
+
+.container {
+    background-color: white;
+}
+
+h3 {
+    text-align: center;
+}
+
+#logoLoja {
+    width: 100%;
+}
+
+#imagemLogo {
+    margin-bottom: 30px;
+}
