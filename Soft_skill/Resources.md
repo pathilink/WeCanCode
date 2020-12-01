@@ -34,3 +34,5 @@ https://www.youtube.com/watch?v=fEvKo90qBns&feature=youtu.be&t=2m27s)
 * Gestão de projetos ágeis: [artigo](https://exame.com/revista-exame/grandes-empresas-querem-se-parecer-mais-com-startups/)
 
 * Scrum: [vídeo](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+
+* [Artigo](http://rogeriocher.com.br/2017/10/28/coragem-e-vulnerabilidade/) sobre trabalho em equipe.
