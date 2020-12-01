@@ -1,5 +1,11 @@
 # Recursos
 
+* Lista de [vídeos](https://www.youtube.com/playlist?list=PLwXQLZ3FdTVG_mqZcOXhfFf3Po6whFv8o) sobre lógica de programação.
+
+* [Livro](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=pd_sbs_14_4/146-6650619-7980322) Código Limpo: Habilidades Práticas do Agile Software
+
+* [Livro](https://www.amazon.com.br/Extreme-Programming-Explained-Embrace-Change/dp/0201616416/ref=sr_1_6) Extreme Programming Explained: Embrace Change
+
 * Inteligência emocional com Daniel Goleman: [vídeo](https://www.youtube.com/watch?v=BqF50IuR3_c)
 
 * Prática de higiene emocional com Guy Winch: [vídeo](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid?language=pt-br)
