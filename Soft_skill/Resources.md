@@ -36,3 +36,5 @@ https://www.youtube.com/watch?v=fEvKo90qBns&feature=youtu.be&t=2m27s)
 * Scrum: [vídeo](https://www.youtube.com/watch?v=XfvQWnRgxG0)
 
 * [Artigo](http://rogeriocher.com.br/2017/10/28/coragem-e-vulnerabilidade/) sobre trabalho em equipe.
+
+* [Artigo](https://www.linkedin.com/pulse/qual-diferen%C3%A7a-entre-diversidade-e-inclus%C3%A3o-ricardo-sales/) sobre diversidade e inclusão.
