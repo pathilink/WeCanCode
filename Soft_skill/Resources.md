@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=fEvKo90qBns&feature=youtu.be&t=2m27s)
 * [Artigo](http://rogeriocher.com.br/2017/10/28/coragem-e-vulnerabilidade/) sobre trabalho em equipe.
 
 * [Artigo](https://www.linkedin.com/pulse/qual-diferen%C3%A7a-entre-diversidade-e-inclus%C3%A3o-ricardo-sales/) sobre diversidade e inclusão.
+
+* Neste [vídeo](https://www.ted.com/talks/rocio_lorenzo_want_a_more_innovative_company_hire_more_women/transcript?language=pt-br) Rocío Lorenzo fala sobre como as empresas podem ser mais inovadoras.
+
+* Lean Mindset e o time de produto: [artigo](https://qulture.rocks/blog/como-a-spotify-organiza-seus-times-de-produto/).
