@@ -42,3 +42,11 @@ https://www.youtube.com/watch?v=fEvKo90qBns&feature=youtu.be&t=2m27s)
 * Neste [vídeo](https://www.ted.com/talks/rocio_lorenzo_want_a_more_innovative_company_hire_more_women/transcript?language=pt-br) Rocío Lorenzo fala sobre como as empresas podem ser mais inovadoras.
 
 * Lean Mindset e o time de produto: [artigo](https://qulture.rocks/blog/como-a-spotify-organiza-seus-times-de-produto/).
+
+* Turbinando o LinkedIn: [vídeo](https://www.youtube.com/watch?v=WJHLt6qK5CU&feature=youtu.be)
+
+* Processo seletivo: [vídeo](https://www.youtube.com/watch?v=FWzojr-jKo4&feature=youtu.be)
+
+* Linkedin e o Lirismo de Escritório: [podcast](https://open.spotify.com/episode/7E4HE1ilb5SBs7WSslcwgk)
+
+* Como Aumentar Em 24x As Visualizações Do Seu Post no LinkedIn: [artigo](https://neilpatel.com/br/blog/visualizacoes-de-posts-no-linkedin/)
