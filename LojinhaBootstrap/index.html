@@ -58,6 +58,7 @@
                     <h6 class="card-subtitle mb-2 text-muted">Produto 1</h6>
                     <div class="card-body">
                         <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">Quero!</button>
                     </div>
                 </div>
             </div>
@@ -92,10 +93,40 @@
             </div>
             <div class="col-md-6">
                 <h3 id="receba">Recebe as novidades!</h3>
-                <input type="email" id="txtEmail" placeholder="Digite seu email">
-                <button>Enviar</button>
+                <form>
+                    <div class="form-group">
+                        <label for="exampleInputEmail1">Digite seu email:</label>
+                        <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+                        <small id="emailHelp" class="form-text text-muted">Garantimos sua privacidade.</small>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Enviar</button>
+                </form>
+                <!-- <input type="email" id="txtEmail" placeholder="Digite seu email">
+                <button>Enviar</button> -->
             </div>
         </div>
+        <!-- modal do produto 1 -->
+        <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Produto 1</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+        </button>
+                    </div>
+                    <div class="modal-body">
+                        <p>Descrição: Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                        <p>Preço: $10.00 em até 5x sem juros.</p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                        <!-- <button type="button" class="btn btn-primary">Save changes</button> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- fim do modal do produto 1 -->
     </div>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
