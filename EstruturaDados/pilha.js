@@ -1,3 +1,5 @@
+// last in first out
+
 var elementos = []; // vetor
 var topo = -1; // -1 indica fora do vetor (posicao)
 const MAX = 10; // tamanho maximo do vetor
@@ -64,5 +66,3 @@ console.log("Desempilhando tudo:");
 while (!estaVazia()) {
     console.log(pop());
 }
-
-// A ordem desempilhada é a inversa da ordem empilhada.
