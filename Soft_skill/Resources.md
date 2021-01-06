@@ -50,3 +50,19 @@ https://www.youtube.com/watch?v=fEvKo90qBns&feature=youtu.be&t=2m27s)
 * Linkedin e o Lirismo de Escritório: [podcast](https://open.spotify.com/episode/7E4HE1ilb5SBs7WSslcwgk)
 
 * Como Aumentar Em 24x As Visualizações Do Seu Post no LinkedIn: [artigo](https://neilpatel.com/br/blog/visualizacoes-de-posts-no-linkedin/)
+
+* Produtividade e gestão do tempo: [Instagram](https://www.instagram.com/p/B9CH30voSlR/)
+
+* Como ser mais produtivo: [vídeo](https://www.youtube.com/watch?v=YTSXXdN3Th8)
+
+* Hackeando seu Networking: [vídeo](https://www.youtube.com/watch?v=WMirX1fJzIQ&feature=youtu.be)
+
+* O que é racismo estrutural?: [vídeo](https://www.youtube.com/watch?v=Ia3NrSoTSXk)
+
+* Desigualdade Racial no Brasil: [vídeo](https://www.youtube.com/watch?v=ufbZkexu7E0)
+
+* Jogo do Privilégio Branco: [vídeo](https://www.youtube.com/watch?v=MuOE3IJZoZU&feature=emb_title)
+
+* Diversidade Étnico Racial Consciência Negra sala aula: [artigo](https://www.geledes.org.br/diversidade-etnico-racial-consciencia-negra-sala-aula/)
+
+* Como promover a igualdade racial dentro das empresas: [vídeo](https://www.youtube.com/watch?v=0l9GrUqRAqA)
